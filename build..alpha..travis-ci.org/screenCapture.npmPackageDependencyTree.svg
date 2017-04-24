@@ -38,7 +38,7 @@
 <tspan x="10" y="570">  │   │   │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="586">  │   │   ├── map-obj@1.0.1 </tspan>
 <tspan x="10" y="602">  │   │   ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="618">  │   │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="618">  │   │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="634">  │   │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="650">  │   │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="666">  │   │   │ │ └── builtin-modules@1.1.1 </tspan>
